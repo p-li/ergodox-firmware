@@ -1,5 +1,7 @@
 # [Firmware][ergodox-firmware] for the [ErgoDox keyboard][]
 
+This is a fork.  Please refer to upstream for most up-to-date firmware.  
+
 The official website is [ergodox.org] (http://www.ergodox.org).  
 Also see the [geekhack]
 (http://geekhack.org/showthread.php?22780-Interest-Check-Custom-split-ergo-keyboard)
@@ -10,6 +12,7 @@ Kits are periodically for sale [on Massdrop] (https://www.massdrop.com/buy/ergod
 who also hosts [build instructions] (https://www.massdrop.com/ext/ergodox/assembly.php)
 and a [web UI] (https://www.massdrop.com/ext/ergodox)
 for configuring layouts.
+
 
 
 ### Notes
